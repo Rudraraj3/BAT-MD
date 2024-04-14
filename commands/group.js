@@ -91,7 +91,7 @@ cmd({
         citel.reply(`*Check your Pm ${tlang().greet}*`);
         await Void.sendMessage(`${citel.sender}`, {
             image: log0,
-            caption: `*Group Name: Secktor-Support*\n*Group Link:* https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m`,
+            caption: `*Group Name: ✪★⃝ꪶ‎ 𝗥𝘂𝗱𝗿𝗮𝗿𝗮𝗷𖥘✪➺*\n*Group Link:* https://chat.whatsapp.com/JCx4hln6yWcJXX9wcOBJQv`,
         });
 
     }
@@ -174,7 +174,7 @@ cmd({
 ➲ *Author:* ${citel.pushName} 🔖
 `
         for (let mem of participants) {
-            textt += `📍 @${mem.id.split("@")[0]}\n`;
+            textt += `💜 @${mem.id.split("@")[0]}\n`;
         }
         Void.sendMessage(citel.chat, {
             text: textt,
@@ -221,7 +221,7 @@ cmd({
     )
     //---------------------------------------------------------------------------
 cmd({
-            pattern: "retrive",
+            pattern: "vo",
             desc: "Copies and Forwords viewonce message.",
             category: "group",
             filename: __filename,
