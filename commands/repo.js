@@ -40,20 +40,16 @@ cmd({
             ];
             let buttonMessage = {
                 image: {
-                    url: 'https://telegra.ph/file/2692bfbd409f7dae2e79b.jpg',
+                    url: 'https://i.imgur.com/vpMZP20.jpeg',
                 },
 
                 caption: `
 ╭────《𝐑𝐄𝐏𝐎》─────❖
 ╭──────────────❖
-│⭐𝐒𝐓𝐀𝐑𝐒:- 𝐔𝐧𝐝𝐞𝐟𝐢𝐧𝐞𝐝
-│♻️𝐒𝐂𝐀𝐍-𝐐𝐑:- https://bat-bot-qr-34b45414eefe.herokuapp.com
-│ 𝐑𝐄𝐏𝐎:-https://github.com/EX-BOTS/BAT-MD
-│ 𝙁𝙊𝙍𝙆:-https://github.com/EX-BOTS/BAT-MD/fork
-│ 𝘾𝙝𝙖𝙣𝙣𝙚𝙡:-https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m
-│ 𝙎𝙪𝙥𝙥𝙤𝙧𝙩:- https://chat.whatsapp.com/Lq8yd8FRqEZ5pc3oXznliR
+│:- 𝐔𝐧𝐝𝐞𝐟𝐢𝐧𝐞𝐝
+│ 𝙎𝙪𝙥𝙥𝙤𝙧𝙩:- https://chat.whatsapp.com/JCx4hln6yWcJXX9wcOBJQv
 ╰───────────────❖
-©𝙀𝙓𝘾𝙀𝙇:-𝘽𝘼𝙏-𝘽𝙊𝙏
+©✪★⃝ꪶ‎ 𝗥𝘂𝗱𝗿𝗮𝗿𝗮𝗷𖥘✪➺:-
 `,
 
                 footer: tlang().footer,
